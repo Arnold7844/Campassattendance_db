@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6aedd3cfdb40437069e30c63"
+  },
+  "studentId": "S001",
+  "name": "Amina Yusuf",
+  "gender": "Female",
+  "program": "Computer Science",
+  "email": "amina.yusuf@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd3cfdb40437069e30c64"
+  },
+  "studentId": "S002",
+  "name": "Kwame Mensah",
+  "gender": "Male",
+  "program": "Computer Science",
+  "email": "kwame.mensah@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd3cfdb40437069e30c65"
+  },
+  "studentId": "S003",
+  "name": "Erute Arnold",
+  "gender": "Male",
+  "program": "Computer Science",
+  "email": "arnold616@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd3cfdb40437069e30c66"
+  },
+  "studentId": "S004",
+  "name": "Nayad Attouemane",
+  "gender": "Male",
+  "program": "Computer Science",
+  "email": "nayad.attouemane\n@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd3cfdb40437069e30c67"
+  },
+  "studentId": "S005",
+  "name": "Fatima Bello",
+  "gender": "Female",
+  "program": "Computer Science",
+  "email": "fatima.bello@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aff4c3a4cf22441e7f2d99d"
+  },
+  "studentId": "S006",
+  "name": "Walukaga Shafik",
+  "gender": "Male",
+  "program": "BSE",
+  "email": "walu442@gmail.com"
+}]

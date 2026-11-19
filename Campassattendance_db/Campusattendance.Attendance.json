@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0ad"
+  },
+  "studentId": "S001",
+  "courseCode": "CS201",
+  "date": "2026-11-02",
+  "status": "Present",
+  "markedBy": "L01"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0ae"
+  },
+  "studentId": "S002",
+  "courseCode": "CS201",
+  "date": "2026-11-02",
+  "status": "Absent",
+  "markedBy": "L01"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0af"
+  },
+  "studentId": "S003",
+  "courseCode": "CS201",
+  "date": "2026-11-02",
+  "status": "Late",
+  "markedBy": "L01"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b0"
+  },
+  "studentId": "S004",
+  "courseCode": "CS202",
+  "date": "2026-11-03",
+  "status": "Present",
+  "markedBy": "L02"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b1"
+  },
+  "studentId": "S005",
+  "courseCode": "CS202",
+  "date": "2026-11-03",
+  "status": "Present",
+  "markedBy": "L02"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b2"
+  },
+  "studentId": "S001",
+  "courseCode": "CS203",
+  "date": "2026-11-04",
+  "status": "Present",
+  "markedBy": "L03"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b3"
+  },
+  "studentId": "S002",
+  "courseCode": "CS203",
+  "date": "2026-11-04",
+  "status": "Present",
+  "markedBy": "L03"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b4"
+  },
+  "studentId": "S003",
+  "courseCode": "CS204",
+  "date": "2026-11-05",
+  "status": "Absent",
+  "markedBy": "L04"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b5"
+  },
+  "studentId": "S004",
+  "courseCode": "CS205",
+  "date": "2026-11-05",
+  "status": "Late",
+  "markedBy": "L05"
+},
+{
+  "_id": {
+    "$oid": "6aedd52bfb9866c03be0c0b6"
+  },
+  "studentId": "S005",
+  "courseCode": "CS205",
+  "date": "2026-11-05",
+  "status": "Present",
+  "markedBy": "L05"
+}]

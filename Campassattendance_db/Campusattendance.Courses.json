@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6aedd50bfb9866c03be0c0a7"
+  },
+  "courseCode": "CS201",
+  "courseName": "Database Systems",
+  "lecturerId": "L01",
+  "creditHours": 3
+},
+{
+  "_id": {
+    "$oid": "6aedd50bfb9866c03be0c0a8"
+  },
+  "courseCode": "CS202",
+  "courseName": "Web Development",
+  "lecturerId": "L02",
+  "creditHours": 3
+},
+{
+  "_id": {
+    "$oid": "6aedd50bfb9866c03be0c0a9"
+  },
+  "courseCode": "CS203",
+  "courseName": "Data Structures",
+  "lecturerId": "L03",
+  "creditHours": 4
+},
+{
+  "_id": {
+    "$oid": "6aedd50bfb9866c03be0c0aa"
+  },
+  "courseCode": "CS204",
+  "courseName": "Computer Networks",
+  "lecturerId": "L04",
+  "creditHours": 3
+},
+{
+  "_id": {
+    "$oid": "6aedd50bfb9866c03be0c0ab"
+  },
+  "courseCode": "CS205",
+  "courseName": "Software Engineering",
+  "lecturerId": "L05",
+  "creditHours": 3
+},
+{
+  "_id": {
+    "$oid": "6aff51b54cf22441e7f2d99e"
+  },
+  "courseCode": "CS206",
+  "courseName": "Computer science",
+  "lecturerId": "L05",
+  "creditHours": 3
+}]

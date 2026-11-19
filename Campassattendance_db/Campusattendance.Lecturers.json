@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6aedd4c9fb9866c03be0c09e"
+  },
+  "lecturerId": "L01",
+  "name": "Dr. James Carter",
+  "department": "Computer Science",
+  "email": "j.carter@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd4c9fb9866c03be0c09f"
+  },
+  "lecturerId": "L02",
+  "name": "Ms. Linda Owusu",
+  "department": "Computer Science",
+  "email": "l.owusu@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd4c9fb9866c03be0c0a0"
+  },
+  "lecturerId": "L03",
+  "name": "Mr. Peter Njoroge",
+  "department": "Computer Science",
+  "email": "p.njoroge@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd4c9fb9866c03be0c0a1"
+  },
+  "lecturerId": "L04",
+  "name": "Dr. Sarah Adeyemi",
+  "department": "Information Technology",
+  "email": "s.adeyemi@school.edu"
+},
+{
+  "_id": {
+    "$oid": "6aedd4c9fb9866c03be0c0a2"
+  },
+  "lecturerId": "L05",
+  "name": "Mr. David Kimani",
+  "department": "Information Technology",
+  "email": "d.kimani@school.edu"
+}]
